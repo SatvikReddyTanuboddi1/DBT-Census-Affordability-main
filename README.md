@@ -345,11 +345,3 @@ Key takeaways from the dashboard include:
 - **Potential Policy Insights**: By identifying metros with high cost-burdened populations, policymakers can target these areas for intervention in affordable housing programs or rent control measures.
 
 The dashboard serves as a useful tool for urban planners, policymakers, and stakeholders to better understand and address housing affordability issues in specific areas.
-
-# 9: **GitHub**
-
-You can access the full project, including code, SQL queries, and the Tableau dashboard, at the following GitHub repository:
-
-[**GitHub Repository: Housing Affordability Dashboard**](https://github.com/surajshivkumar/DBT-Census-Affordability/tree/main)
-
-This repository includes all necessary files for running the project, including data transformations, DBT models, and Tableau visualizations.
